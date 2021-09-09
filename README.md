@@ -32,7 +32,7 @@
  
 <h4> PARTE 03: <h4/>
   
- - E depois de armazenador ele vai fazer uma analíse de todos os valores e retornar alguns resultados, basta dar um click no botão verificar, como mostra a imagem:
+ - E depois de armazenado ele vai fazer uma analíse de todos os valores e retornar alguns resultados, basta dar um click no botão verificar, como mostra a imagem:
   <br/>
 
 <div align="center">
